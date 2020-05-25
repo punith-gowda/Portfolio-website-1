@@ -403,7 +403,8 @@ margin-right: 4%;
  .msg textarea
  {
      height: 243px;
-     color: black;
+     color: black; 
+     border-radius: 10px;
  }
 
 
